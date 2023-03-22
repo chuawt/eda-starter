@@ -52,7 +52,7 @@ Just download the eda-starter.ipynb file and use.
 
 # Project Status
 Project is: _completed_.
-Version: 1.1.0
+Version: 1.2.0
 
 
 ## To Do
