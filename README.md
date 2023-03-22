@@ -1,5 +1,5 @@
 # EDA Starter Jupyter Notebook Template
-> As a Dataquest 6-time Community Champion and Learning Assistant, I help review many notebooks from beginners focusing on exploratory data analysis (EDA).
+> As a Dataquest 8-time Community Champion and Learning Assistant, I help review many notebooks from beginners focusing on exploratory data analysis (EDA).
 > As such, the purpose of publishing this notebook template to not for beginners to follow rigidly, but aim to make aware some of the structure, style, and common areas of analysis.  
 
 
