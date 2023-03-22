@@ -40,6 +40,9 @@ The purpose of this project is to:
 
 
 ## Screenshots
+![](https://user-images.githubusercontent.com/25447529/226967831-ebb53e07-c9a7-4c65-8710-e372321d91e5.png)
+![](https://user-images.githubusercontent.com/25447529/226967873-bf34ec76-21e2-4eb3-a2b0-e5c94956adb2.png)
+![](https://user-images.githubusercontent.com/25447529/226967899-2d2bb170-0694-4319-895e-98d5a95bba68.png)
 
 
 ## Setup
@@ -52,7 +55,7 @@ Just download the eda-starter.ipynb file and use.
 
 # Project Status
 Project is: _completed_.
-Version: 1.2.0
+Version: 1.2.1
 
 
 ## To Do
