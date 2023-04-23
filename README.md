@@ -1,5 +1,5 @@
 # EDA Starter Jupyter Notebook Template
-> As a Dataquest 9-time Community Champion and Learning Assistant, I help review many notebooks from beginners focusing on exploratory data analysis (EDA).
+> As a Dataquest 11-time Community Champion and Learning Assistant, I review many notebooks from beginners focusing on exploratory data analysis (EDA).
 > As such, the purpose of publishing this notebook template to not for beginners to follow rigidly, but aim to make aware some of the structure, style, and common areas of analysis.  
 
 
@@ -55,7 +55,7 @@ Just download the eda-starter.ipynb file and use.
 
 # Project Status
 Project is _completed_.
-Latest Version: 1.3.0
+Latest Version: 1.4.0
 
 
 ## To Do
