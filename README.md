@@ -24,7 +24,7 @@ Uses cases:
 The purpose of this project is to:
 - show data science beginners what structure, style, and common areas of analysis to consider. 
 - demonstrate how to do certain things in Markdown and HTML, such as clickable Table of Content, HTML tables, 2-way citations, and referencing.
-
+- demonstrate how to perform common EDA steps in Python.
 
 ## Technologies Used
 - Markdown
@@ -37,6 +37,7 @@ The purpose of this project is to:
 - Common methods and considerations of preprocessing.
 - 2-way citations
 - Referencing style
+- Rename DataFrame columns to snake_case using the [Skimpy](https://aeturrell.github.io/skimpy/) library.
 
 
 ## Screenshots
@@ -55,15 +56,14 @@ Just download the eda-starter.ipynb file and use.
 
 # Project Status
 Project is _completed_.
-Latest Version: 1.4.0
+Latest Version: 1.5.0
 
 
 ## To Do
 
 
 ## Acknowledgements
-Many thanks to the entire Dataquest community especially @Elena_Kosourova for your support and @gorelovaelizaveta01 for [your template](https://community.dataquest.io/t/template-for-jupyter-notebooks/567750) inspiration
-
+Many thanks to the entire Dataquest community especially @Elena_Kosourova for your support and @gorelovaelizaveta01 for [your template](https://community.dataquest.io/t/template-for-jupyter-notebooks/567750) inspiration.
 
 
 ## Contact
